@@ -1,0 +1,21 @@
+# Windows
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+
+# Node.js
+node_modules/
+
+# 忽略私密常量配置文件
+miniprogram/utils/constants_private.js
+miniprogram/WXS/cal_view.wxs
+
+miniprogram/utils/constants_private.js
+miniprogram/utils/constants_private.js
